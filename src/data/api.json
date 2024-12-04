@@ -1,0 +1,43 @@
+{
+  "alumnos": [
+        {
+            "id": "1",
+            "nombre": "David",
+            "localidad": "Montilla",
+            "fecha_nacimiento": "2003-05-23" 
+        },
+        {
+            "id": "2",
+            "nombre": "Ismael",
+            "localidad": "Puente Genil",
+            "fecha_nacimiento": "2005-11-21" 
+        },
+        {
+            "id": "3",
+            "nombre": "Carlos",
+            "localidad": "Córdoba",
+            "fecha_nacimiento": "1997-02-14" 
+        }
+    ],
+    "profesores": [
+        {
+            "id": "1",
+            "nombre": "Jose",
+            "especialidad": "Backend",
+            "estado_civil": "CASADO" 
+        },
+        {
+            "id": "2",
+            "nombre": "Miguel",
+            "especialidad": "Frontend",
+            "estado_civil": "SOLTERO" 
+        },
+        {
+            "id": "3",
+            "nombre": "Carmen",
+            "especialidad": "Laravel",
+            "estado_civil": "CASADO" 
+        }
+    ]
+}
+
